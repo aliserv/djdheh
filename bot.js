@@ -32,7 +32,7 @@ client.on('ready', () => {
 
 
 const adminprefix = "";
-const developers = ['514114378384015372'];
+const developers = ['395124175028617246'];
 
 console.log("mohab");
 
